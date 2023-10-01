@@ -1,0 +1,188 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo{
+    width: 150px;
+    
+}
+
+
+.bar{
+    width: 80px;
+}
+
+.search{
+    width: 550px;
+}
+
+
+.create{
+    width: 40px;
+}
+
+.notifications{
+    width: 45px;
+}
+
+.profile{
+    width: 60px;
+}
+
+.headerleft{
+    display: flex;
+    align-items: center;   
+    
+}
+
+
+.headermiddle{
+    display: flex;
+    align-items: center; 
+}
+
+
+.headerright{
+    display: flex;
+    align-items: center;
+    
+}
+
+
+
+
+section{
+   display: flex;
+   justify-content: space-between;
+   
+ 
+}
+
+.video {
+    display: flex;
+  height: 200px;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    row-gap: 20px;
+    column-gap: 20px;
+
+   
+}
+
+.sidebar{
+    display: flex;
+    flex-direction: column;
+
+    
+}
+
+
+.sahil{
+    display: flex;
+    flex-direction: column;
+    
+    
+
+}
+
+
+.day{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.sheikh{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+
+.strange{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.horror{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+
+.sabr{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+
+
+
+
+
+
+.pic{
+    height: 200px;
+    margin: 2px;
+}
+
+
+p{
+    color: #7E7E7E;
+}
+
+h3{
+    color: #493B30;
+}
+
+
+.heading{
+    padding-bottom: 10px;
+}
+
+.para{
+
+    margin: 0;
+}
+
+
+.pictext{
+    display: flex;
+    flex-direction: row;
+}
+
+.image{
+    height: 45px;
+}
+
+
+
+
+
+  
+  
+  
+   
+  
+
+
+
+
+
+
+
+
+
+
+
+
